@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "4397b377-70d4-4b13-b91c-d7aa7cd3bb75",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "村淘电器城_00018": {
+      "ver": "1.0.3",
+      "uuid": "66dd8e7b-7ed5-45ee-9ec7-6dd7193ac310",
+      "rawTextureUuid": "4397b377-70d4-4b13-b91c-d7aa7cd3bb75",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -71,
+      "offsetY": -75.5,
+      "trimX": 147,
+      "trimY": 571,
+      "width": 314,
+      "height": 343,
+      "rawWidth": 750,
+      "rawHeight": 1334,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

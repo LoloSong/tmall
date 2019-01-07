@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "55d491af-8991-4127-81fc-dcafd00ab931",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "放爆竹_00027": {
+      "ver": "1.0.3",
+      "uuid": "b26b9e4c-38fc-4da4-95bc-3e97c9391459",
+      "rawTextureUuid": "55d491af-8991-4127-81fc-dcafd00ab931",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 4,
+      "offsetY": -7.5,
+      "trimX": 61,
+      "trimY": 42,
+      "width": 286,
+      "height": 231,
+      "rawWidth": 400,
+      "rawHeight": 300,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

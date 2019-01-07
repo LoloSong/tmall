@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "7c9dfdd1-afab-42f2-869c-b3f51a528dc8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "拿糖葫芦的人_00008": {
+      "ver": "1.0.3",
+      "uuid": "14550cae-56ee-4fba-94d4-c0156b248447",
+      "rawTextureUuid": "7c9dfdd1-afab-42f2-869c-b3f51a528dc8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -4,
+      "offsetY": -4,
+      "trimX": 39,
+      "trimY": 41,
+      "width": 214,
+      "height": 226,
+      "rawWidth": 300,
+      "rawHeight": 300,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

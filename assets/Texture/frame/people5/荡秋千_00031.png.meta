@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "975449f2-f025-4a7f-8281-4e473a6f860d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "荡秋千_00031": {
+      "ver": "1.0.3",
+      "uuid": "bc52aac6-ac77-4647-8c03-b88d55e96d12",
+      "rawTextureUuid": "975449f2-f025-4a7f-8281-4e473a6f860d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -11,
+      "offsetY": -8.5,
+      "trimX": 22,
+      "trimY": 48,
+      "width": 334,
+      "height": 321,
+      "rawWidth": 400,
+      "rawHeight": 400,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

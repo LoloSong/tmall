@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "0e212436-38ec-48d2-859e-7dd3a86c71df",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "年货大街文字_00035": {
+      "ver": "1.0.3",
+      "uuid": "d9185c32-1944-4baf-9b8b-ecf92064f25b",
+      "rawTextureUuid": "0e212436-38ec-48d2-859e-7dd3a86c71df",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -12,
+      "offsetY": -1,
+      "trimX": 60,
+      "trimY": 54,
+      "width": 256,
+      "height": 194,
+      "rawWidth": 400,
+      "rawHeight": 300,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

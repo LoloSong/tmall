@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "efe39d28-0b05-4a0e-b450-7366866a0581",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "门楼文字_00070": {
+      "ver": "1.0.3",
+      "uuid": "995b6fc6-78ec-4e85-8669-65a5cece6c20",
+      "rawTextureUuid": "efe39d28-0b05-4a0e-b450-7366866a0581",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 9.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 300,
+      "height": 381,
+      "rawWidth": 300,
+      "rawHeight": 400,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

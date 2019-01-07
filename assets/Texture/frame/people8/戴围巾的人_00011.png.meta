@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "922a72ca-052d-485f-84ff-bfda0ad1136c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "戴围巾的人_00011": {
+      "ver": "1.0.3",
+      "uuid": "2db6ebe3-2ca6-4a6a-be01-2f2bd24d3479",
+      "rawTextureUuid": "922a72ca-052d-485f-84ff-bfda0ad1136c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -38,
+      "trimX": 92,
+      "trimY": 154,
+      "width": 116,
+      "height": 368,
+      "rawWidth": 300,
+      "rawHeight": 600,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "cbe0beb4-3ee9-49a1-b69c-c1dc963f747c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "好吃农产品好吃优惠_00047": {
+      "ver": "1.0.3",
+      "uuid": "4714e256-d6d9-4f7e-bff4-a9f660092364",
+      "rawTextureUuid": "cbe0beb4-3ee9-49a1-b69c-c1dc963f747c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -3,
+      "offsetY": 47.5,
+      "trimX": 50,
+      "trimY": 10,
+      "width": 344,
+      "height": 235,
+      "rawWidth": 450,
+      "rawHeight": 350,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

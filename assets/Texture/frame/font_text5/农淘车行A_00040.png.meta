@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "1b28a5c4-0164-4339-bfbf-4c13f37c6a54",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "农淘车行A_00040": {
+      "ver": "1.0.3",
+      "uuid": "ebbe6016-77b4-429a-b50c-88028efa64a8",
+      "rawTextureUuid": "1b28a5c4-0164-4339-bfbf-4c13f37c6a54",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2,
+      "offsetY": -0.5,
+      "trimX": 24,
+      "trimY": 37,
+      "width": 48,
+      "height": 227,
+      "rawWidth": 100,
+      "rawHeight": 300,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
