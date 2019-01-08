@@ -4,7 +4,7 @@
     <dict>
         <key>frames</key>
         <dict>
-            <key>农淘家具城_00000.png</key>
+            <key>村淘家具城_00000.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -15,11 +15,11 @@
                 <key>spriteSourceSize</key>
                 <string>{60,220}</string>
                 <key>textureRect</key>
-                <string>{{0,0},{60,220}}</string>
+                <string>{{1,1},{60,220}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>农淘家具城_00001.png</key>
+            <key>村淘家具城_00001.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -30,11 +30,11 @@
                 <key>spriteSourceSize</key>
                 <string>{60,220}</string>
                 <key>textureRect</key>
-                <string>{{60,0},{60,220}}</string>
+                <string>{{1,1},{60,220}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>农淘家具城_00002.png</key>
+            <key>村淘家具城_00002.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -45,11 +45,11 @@
                 <key>spriteSourceSize</key>
                 <string>{60,220}</string>
                 <key>textureRect</key>
-                <string>{{120,0},{60,220}}</string>
+                <string>{{1,1},{60,220}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>农淘家具城_00003.png</key>
+            <key>村淘家具城_00003.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -60,11 +60,11 @@
                 <key>spriteSourceSize</key>
                 <string>{60,220}</string>
                 <key>textureRect</key>
-                <string>{{180,0},{60,220}}</string>
+                <string>{{1,1},{60,220}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>农淘家具城_00004.png</key>
+            <key>村淘家具城_00004.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -75,11 +75,11 @@
                 <key>spriteSourceSize</key>
                 <string>{60,220}</string>
                 <key>textureRect</key>
-                <string>{{240,0},{60,220}}</string>
+                <string>{{1,1},{60,220}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>农淘家具城_00005.png</key>
+            <key>村淘家具城_00005.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -90,11 +90,11 @@
                 <key>spriteSourceSize</key>
                 <string>{60,220}</string>
                 <key>textureRect</key>
-                <string>{{300,0},{60,220}}</string>
+                <string>{{1,1},{60,220}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>农淘家具城_00006.png</key>
+            <key>村淘家具城_00006.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -105,11 +105,11 @@
                 <key>spriteSourceSize</key>
                 <string>{60,220}</string>
                 <key>textureRect</key>
-                <string>{{360,0},{60,220}}</string>
+                <string>{{1,1},{60,220}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>农淘家具城_00007.png</key>
+            <key>村淘家具城_00007.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -120,11 +120,11 @@
                 <key>spriteSourceSize</key>
                 <string>{60,220}</string>
                 <key>textureRect</key>
-                <string>{{420,0},{60,220}}</string>
+                <string>{{1,1},{60,220}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>农淘家具城_00008.png</key>
+            <key>村淘家具城_00008.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -135,11 +135,11 @@
                 <key>spriteSourceSize</key>
                 <string>{60,220}</string>
                 <key>textureRect</key>
-                <string>{{480,0},{60,220}}</string>
+                <string>{{1,1},{60,220}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>农淘家具城_00009.png</key>
+            <key>村淘家具城_00009.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -150,11 +150,11 @@
                 <key>spriteSourceSize</key>
                 <string>{60,220}</string>
                 <key>textureRect</key>
-                <string>{{540,0},{60,220}}</string>
+                <string>{{1,1},{60,220}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>农淘家具城_00010.png</key>
+            <key>村淘家具城_00010.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -165,11 +165,11 @@
                 <key>spriteSourceSize</key>
                 <string>{60,220}</string>
                 <key>textureRect</key>
-                <string>{{600,0},{60,220}}</string>
+                <string>{{1,1},{60,220}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>农淘家具城_00011.png</key>
+            <key>村淘家具城_00011.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -180,11 +180,11 @@
                 <key>spriteSourceSize</key>
                 <string>{60,220}</string>
                 <key>textureRect</key>
-                <string>{{660,0},{60,220}}</string>
+                <string>{{1,1},{60,220}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>农淘家具城_00012.png</key>
+            <key>村淘家具城_00012.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -195,11 +195,11 @@
                 <key>spriteSourceSize</key>
                 <string>{60,220}</string>
                 <key>textureRect</key>
-                <string>{{720,0},{60,220}}</string>
+                <string>{{1,1},{60,220}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>农淘家具城_00013.png</key>
+            <key>村淘家具城_00013.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -210,11 +210,11 @@
                 <key>spriteSourceSize</key>
                 <string>{60,220}</string>
                 <key>textureRect</key>
-                <string>{{780,0},{60,220}}</string>
+                <string>{{1,1},{60,220}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>农淘家具城_00014.png</key>
+            <key>村淘家具城_00014.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -225,11 +225,11 @@
                 <key>spriteSourceSize</key>
                 <string>{60,220}</string>
                 <key>textureRect</key>
-                <string>{{840,0},{60,220}}</string>
+                <string>{{1,1},{60,220}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>农淘家具城_00015.png</key>
+            <key>村淘家具城_00015.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -240,11 +240,11 @@
                 <key>spriteSourceSize</key>
                 <string>{60,220}</string>
                 <key>textureRect</key>
-                <string>{{900,0},{60,220}}</string>
+                <string>{{1,1},{60,220}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>农淘家具城_00016.png</key>
+            <key>村淘家具城_00016.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -255,11 +255,11 @@
                 <key>spriteSourceSize</key>
                 <string>{60,220}</string>
                 <key>textureRect</key>
-                <string>{{960,0},{60,220}}</string>
+                <string>{{1,223},{60,220}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>农淘家具城_00017.png</key>
+            <key>村淘家具城_00017.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -270,11 +270,11 @@
                 <key>spriteSourceSize</key>
                 <string>{60,220}</string>
                 <key>textureRect</key>
-                <string>{{1020,0},{60,220}}</string>
+                <string>{{1,445},{60,220}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>农淘家具城_00018.png</key>
+            <key>村淘家具城_00018.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -285,11 +285,11 @@
                 <key>spriteSourceSize</key>
                 <string>{60,220}</string>
                 <key>textureRect</key>
-                <string>{{1080,0},{60,220}}</string>
+                <string>{{1,667},{60,220}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>农淘家具城_00019.png</key>
+            <key>村淘家具城_00019.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -300,11 +300,11 @@
                 <key>spriteSourceSize</key>
                 <string>{60,220}</string>
                 <key>textureRect</key>
-                <string>{{1140,0},{60,220}}</string>
+                <string>{{1,889},{60,220}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>农淘家具城_00020.png</key>
+            <key>村淘家具城_00020.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -315,11 +315,11 @@
                 <key>spriteSourceSize</key>
                 <string>{60,220}</string>
                 <key>textureRect</key>
-                <string>{{1200,0},{60,220}}</string>
+                <string>{{1,1111},{60,220}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>农淘家具城_00021.png</key>
+            <key>村淘家具城_00021.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -330,11 +330,11 @@
                 <key>spriteSourceSize</key>
                 <string>{60,220}</string>
                 <key>textureRect</key>
-                <string>{{1260,0},{60,220}}</string>
+                <string>{{1,1111},{60,220}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>农淘家具城_00022.png</key>
+            <key>村淘家具城_00022.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -345,11 +345,11 @@
                 <key>spriteSourceSize</key>
                 <string>{60,220}</string>
                 <key>textureRect</key>
-                <string>{{1320,0},{60,220}}</string>
+                <string>{{1,1111},{60,220}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>农淘家具城_00023.png</key>
+            <key>村淘家具城_00023.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -360,11 +360,11 @@
                 <key>spriteSourceSize</key>
                 <string>{60,220}</string>
                 <key>textureRect</key>
-                <string>{{1380,0},{60,220}}</string>
+                <string>{{1,1111},{60,220}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>农淘家具城_00024.png</key>
+            <key>村淘家具城_00024.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -375,11 +375,11 @@
                 <key>spriteSourceSize</key>
                 <string>{60,220}</string>
                 <key>textureRect</key>
-                <string>{{1440,0},{60,220}}</string>
+                <string>{{1,1111},{60,220}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>农淘家具城_00025.png</key>
+            <key>村淘家具城_00025.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -390,11 +390,11 @@
                 <key>spriteSourceSize</key>
                 <string>{60,220}</string>
                 <key>textureRect</key>
-                <string>{{1500,0},{60,220}}</string>
+                <string>{{1,1111},{60,220}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>农淘家具城_00026.png</key>
+            <key>村淘家具城_00026.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -405,11 +405,11 @@
                 <key>spriteSourceSize</key>
                 <string>{60,220}</string>
                 <key>textureRect</key>
-                <string>{{1560,0},{60,220}}</string>
+                <string>{{1,1111},{60,220}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>农淘家具城_00027.png</key>
+            <key>村淘家具城_00027.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -420,11 +420,11 @@
                 <key>spriteSourceSize</key>
                 <string>{60,220}</string>
                 <key>textureRect</key>
-                <string>{{1620,0},{60,220}}</string>
+                <string>{{1,1111},{60,220}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>农淘家具城_00028.png</key>
+            <key>村淘家具城_00028.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -435,11 +435,11 @@
                 <key>spriteSourceSize</key>
                 <string>{60,220}</string>
                 <key>textureRect</key>
-                <string>{{1680,0},{60,220}}</string>
+                <string>{{1,1111},{60,220}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>农淘家具城_00029.png</key>
+            <key>村淘家具城_00029.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -450,11 +450,11 @@
                 <key>spriteSourceSize</key>
                 <string>{60,220}</string>
                 <key>textureRect</key>
-                <string>{{1740,0},{60,220}}</string>
+                <string>{{1,1111},{60,220}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>农淘家具城_00030.png</key>
+            <key>村淘家具城_00030.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -465,11 +465,11 @@
                 <key>spriteSourceSize</key>
                 <string>{60,220}</string>
                 <key>textureRect</key>
-                <string>{{1800,0},{60,220}}</string>
+                <string>{{1,1111},{60,220}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>农淘家具城_00031.png</key>
+            <key>村淘家具城_00031.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -480,11 +480,11 @@
                 <key>spriteSourceSize</key>
                 <string>{60,220}</string>
                 <key>textureRect</key>
-                <string>{{1860,0},{60,220}}</string>
+                <string>{{1,1111},{60,220}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>农淘家具城_00032.png</key>
+            <key>村淘家具城_00032.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -495,11 +495,11 @@
                 <key>spriteSourceSize</key>
                 <string>{60,220}</string>
                 <key>textureRect</key>
-                <string>{{1920,0},{60,220}}</string>
+                <string>{{1,1111},{60,220}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>农淘家具城_00033.png</key>
+            <key>村淘家具城_00033.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -510,11 +510,11 @@
                 <key>spriteSourceSize</key>
                 <string>{60,220}</string>
                 <key>textureRect</key>
-                <string>{{1980,0},{60,220}}</string>
+                <string>{{1,1111},{60,220}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>农淘家具城_00034.png</key>
+            <key>村淘家具城_00034.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -525,11 +525,11 @@
                 <key>spriteSourceSize</key>
                 <string>{60,220}</string>
                 <key>textureRect</key>
-                <string>{{2040,0},{60,220}}</string>
+                <string>{{1,1111},{60,220}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>农淘家具城_00035.png</key>
+            <key>村淘家具城_00035.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -540,11 +540,11 @@
                 <key>spriteSourceSize</key>
                 <string>{60,220}</string>
                 <key>textureRect</key>
-                <string>{{2100,0},{60,220}}</string>
+                <string>{{1,1111},{60,220}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>农淘家具城_00036.png</key>
+            <key>村淘家具城_00036.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -555,11 +555,11 @@
                 <key>spriteSourceSize</key>
                 <string>{60,220}</string>
                 <key>textureRect</key>
-                <string>{{2160,0},{60,220}}</string>
+                <string>{{1,889},{60,220}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>农淘家具城_00037.png</key>
+            <key>村淘家具城_00037.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -570,11 +570,11 @@
                 <key>spriteSourceSize</key>
                 <string>{60,220}</string>
                 <key>textureRect</key>
-                <string>{{2220,0},{60,220}}</string>
+                <string>{{1,667},{60,220}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>农淘家具城_00038.png</key>
+            <key>村淘家具城_00038.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -585,11 +585,11 @@
                 <key>spriteSourceSize</key>
                 <string>{60,220}</string>
                 <key>textureRect</key>
-                <string>{{2280,0},{60,220}}</string>
+                <string>{{1,445},{60,220}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>农淘家具城_00039.png</key>
+            <key>村淘家具城_00039.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -600,11 +600,11 @@
                 <key>spriteSourceSize</key>
                 <string>{60,220}</string>
                 <key>textureRect</key>
-                <string>{{2340,0},{60,220}}</string>
+                <string>{{1,223},{60,220}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>农淘家具城_00040.png</key>
+            <key>村淘家具城_00040.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -615,11 +615,11 @@
                 <key>spriteSourceSize</key>
                 <string>{60,220}</string>
                 <key>textureRect</key>
-                <string>{{2400,0},{60,220}}</string>
+                <string>{{1,1},{60,220}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>农淘家具城_00041.png</key>
+            <key>村淘家具城_00041.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -630,11 +630,11 @@
                 <key>spriteSourceSize</key>
                 <string>{60,220}</string>
                 <key>textureRect</key>
-                <string>{{2460,0},{60,220}}</string>
+                <string>{{1,1},{60,220}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>农淘家具城_00042.png</key>
+            <key>村淘家具城_00042.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -645,11 +645,11 @@
                 <key>spriteSourceSize</key>
                 <string>{60,220}</string>
                 <key>textureRect</key>
-                <string>{{2520,0},{60,220}}</string>
+                <string>{{1,1},{60,220}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>农淘家具城_00043.png</key>
+            <key>村淘家具城_00043.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -660,11 +660,11 @@
                 <key>spriteSourceSize</key>
                 <string>{60,220}</string>
                 <key>textureRect</key>
-                <string>{{2580,0},{60,220}}</string>
+                <string>{{1,1},{60,220}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>农淘家具城_00044.png</key>
+            <key>村淘家具城_00044.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -675,11 +675,11 @@
                 <key>spriteSourceSize</key>
                 <string>{60,220}</string>
                 <key>textureRect</key>
-                <string>{{2640,0},{60,220}}</string>
+                <string>{{1,1},{60,220}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>农淘家具城_00045.png</key>
+            <key>村淘家具城_00045.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -690,11 +690,11 @@
                 <key>spriteSourceSize</key>
                 <string>{60,220}</string>
                 <key>textureRect</key>
-                <string>{{2700,0},{60,220}}</string>
+                <string>{{1,1},{60,220}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>农淘家具城_00046.png</key>
+            <key>村淘家具城_00046.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -705,11 +705,11 @@
                 <key>spriteSourceSize</key>
                 <string>{60,220}</string>
                 <key>textureRect</key>
-                <string>{{2760,0},{60,220}}</string>
+                <string>{{1,1},{60,220}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>农淘家具城_00047.png</key>
+            <key>村淘家具城_00047.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -720,11 +720,11 @@
                 <key>spriteSourceSize</key>
                 <string>{60,220}</string>
                 <key>textureRect</key>
-                <string>{{2820,0},{60,220}}</string>
+                <string>{{1,1},{60,220}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>农淘家具城_00048.png</key>
+            <key>村淘家具城_00048.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -735,11 +735,11 @@
                 <key>spriteSourceSize</key>
                 <string>{60,220}</string>
                 <key>textureRect</key>
-                <string>{{2880,0},{60,220}}</string>
+                <string>{{1,1},{60,220}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>农淘家具城_00049.png</key>
+            <key>村淘家具城_00049.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -750,7 +750,7 @@
                 <key>spriteSourceSize</key>
                 <string>{60,220}</string>
                 <key>textureRect</key>
-                <string>{{2940,0},{60,220}}</string>
+                <string>{{1,1},{60,220}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -766,9 +766,9 @@
             <key>realTextureFileName</key>
             <string>font_title7.png</string>
             <key>size</key>
-            <string>{3000,220}</string>
+            <string>{62,1332}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:da0ad9222332fba9247cbfd92cdec88c:4eb4ab452fcd6c8d8564714be76e8a7a:30b47bbf830f7f69efc4a1a36486ce5b$</string>
+            <string>$TexturePacker:SmartUpdate:8ee9f05eb71d8d745462c84607611e02:b05721c45180b0c8494c9752de0b1b41:30b47bbf830f7f69efc4a1a36486ce5b$</string>
             <key>textureFileName</key>
             <string>font_title7.png</string>
         </dict>

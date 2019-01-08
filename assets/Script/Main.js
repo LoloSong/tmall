@@ -55,9 +55,7 @@ cc.Class({
   onLoad() {
     var _this = this
     // 倒计时
-    this.schedule(function(){
-      _this.countDown()
-    }, 1)
+    this.schedule(this.intervalCount.bind(this), 1)
 
     // 随机宝箱领取
     let ranNum = Math.floor(Math.random() * (5 - 0 + 1) + 0)
@@ -94,10 +92,18 @@ cc.Class({
     }
   },
 
-  countDown() {
-    var now = new Date();
-    var endDate = new Date(2019, 0, 10);
-    var leftTime = endDate.getTime() - now.getTime();
+  intervalCount () {
+    let endTime = window.endTime
+    // let endTime = new Date(2019, 0, 10, 0, 0).getTime()
+    let now = new Date().getTime();
+    let leftTime = endTime - now;
+    if (leftTime <= 0) {
+      this.unschedule(this.intervalCount)
+    }
+    this.countDown(leftTime)
+  },
+
+  countDown(leftTime) {
     var dd = parseInt(leftTime / 1000 / 60 / 60 / 24, 10);//计算剩余的天数
     var hh = parseInt(leftTime / 1000 / 60 / 60 % 24, 10);//计算剩余的小时数
     var mm = parseInt(leftTime / 1000 / 60 % 60, 10);//计算剩余的分钟数
